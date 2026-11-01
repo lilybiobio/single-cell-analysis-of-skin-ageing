@@ -1,0 +1,32 @@
+{
+  "analysis_sections": [
+    "body_ inguinal2",
+    "body_abdomen1b",
+    "body_back1a",
+    "body_back1b",
+    "body_breast1",
+    "body_inguinal1a",
+    "body_inguinal1b",
+    "body_pubis1",
+    "body_thigh1b",
+    "face_cheek1",
+    "face_cheek2",
+    "face_forehead1a",
+    "face_forehead1b",
+    "face_forehead2",
+    "face_glabella1",
+    "face_nose1a",
+    "face_nose1b",
+    "face_scalp1",
+    "face_temple1a",
+    "face_temple1b",
+    "face_temple2a",
+    "face_temple2b"
+  ],
+  "representative_sections": {
+    "body_back1a": "Back sample 1",
+    "body_back1b": "Back sample 2",
+    "body_inguinal1a": "Inguinal sample 1",
+    "body_ inguinal2": "Inguinal sample 2"
+  }
+}
